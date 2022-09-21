@@ -56,7 +56,7 @@ Vou deixa aqui duas fontes de exercícios e estudos que resolvi no começo na mi
   <table>
     <thead>
       <tr>
-        <a href="https://github.com/Winzen/freecodecamp.org"><img src="https://i.pcmag.com/imagery/reviews/01tPXClg2WjLamQzScplH3y-15.fit_lim.size_1050x591.v1627670281.png" width="400" height="100"></a>
+        <a href="https://github.com/Winzen/freecodecamp.org"><img src="https://i.pcmag.com/imagery/reviews/01tPXClg2WjLamQzScplH3y-15.fit_lim.size_1050x591.v1627670281.png" width="440" height="100"></a>
       </tr>
       <tr><img src="https://cdn.discordapp.com/attachments/465998423145971713/1013646095664033912/unknown.png" width="40" height="100"/></tr>
       <tr>
