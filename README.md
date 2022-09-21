@@ -58,7 +58,7 @@ Vou deixa aqui duas fontes de exercícios e estudos que resolvi no começo na mi
       <tr>
         <a href="https://github.com/Winzen/freecodecamp.org"><img src="https://i.pcmag.com/imagery/reviews/01tPXClg2WjLamQzScplH3y-15.fit_lim.size_1050x591.v1627670281.png" width="470" height="100"></a>
       </tr>
-      <tr><img src="https://cdn.discordapp.com/attachments/465998423145971713/1013646095664033912/unknown.png" width="100" height="100"/></tr>
+      <tr><img src="https://cdn.discordapp.com/attachments/465998423145971713/1013646095664033912/unknown.png" width="40" height="100"/></tr>
       <tr>
         <a href="https://github.com/Winzen/CURSO-EM-VIDEO-PYTHON"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" width="400" height="100"></a>
         </tr>
@@ -90,8 +90,8 @@ Vou deixa aqui duas fontes de exercícios e estudos que resolvi no começo na mi
 
 <div>
 <a href="https://github.com/Winzen">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winzen&layout=compact&langs_count=7&theme=dracula" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Winzen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winzen&layout=compact&langs_count=7&theme=dracula" />
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=Winzen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
 
 
