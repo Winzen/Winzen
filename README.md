@@ -86,7 +86,7 @@ Vou deixa aqui duas fontes de exercícios e estudos que resolvi no começo na mi
   </table>
 </div>
 
-# Visão Geral do Perfil (Overrall Profile)
+# Visão Geral do Perfil (Overall  Profile)
 
 <div>
 <a href="https://github.com/Winzen">
