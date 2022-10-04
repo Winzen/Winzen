@@ -85,7 +85,7 @@ Vou deixa aqui duas fontes de exercícios e estudos que resolvi no começo na mi
     </tbody>
   </table>
 </div>
-<!--
+
 # Visão Geral do Perfil (Overall  Profile)
 
 <div>
@@ -96,7 +96,7 @@ Vou deixa aqui duas fontes de exercícios e estudos que resolvi no começo na mi
 
 
 
-
+<!--
 
 # Hi there 👋
 **Winzen/Winzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
