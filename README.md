@@ -80,7 +80,7 @@ Vou deixa aqui duas fontes de exercícios e estudos que resolvi no começo na mi
         <td>
             <a href="https://github.com/Winzen/CURSO-EM-VIDEO-PYTHON/tree/main/Mundo%201%20e%202%20Curso%20em%20Video"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo2.png" width="133" height="100"></a></td>
         <td>
-          <a href="https://github.com/Winzen/CURSO-EM-VIDEO-PYTHON/tree/main/Mundo%203%20Curso%20Em%20video"><img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo3-circle.png" width="133" height="100"></a></td>
+          <a href="https://github.com/Winzen/CURSO-EM-VIDEO-PYTHON/tree/main/Mundo%203%20Curso%20Em%20video"><img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo3-circle-f17d45114895df37bfaf3bf9c8091b3f-5d48cb37edbef.png" width="133" height="100"></a></td>
       </tr>
     </tbody>
   </table>
