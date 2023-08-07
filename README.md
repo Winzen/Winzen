@@ -58,7 +58,7 @@ Vou deixa aqui duas fontes de exercícios e estudos que resolvi no começo na mi
       <tr>
         <a href="https://github.com/Winzen/freecodecamp.org"><img src="https://i.pcmag.com/imagery/reviews/01tPXClg2WjLamQzScplH3y-15.fit_lim.size_1050x591.v1627670281.png" width="395" height="100"></a>
       </tr>
-      <tr><img src="https://cdn.discordapp.com/attachments/465998423145971713/1013646095664033912/unknown.png" width="80" height="100"/></tr>
+      <tr><img src="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" width="80" height="100"/></tr>
       <tr>
         <a href="https://github.com/Winzen/CURSO-EM-VIDEO-PYTHON"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" width="300" height="100"></a>
         </tr>
@@ -74,7 +74,7 @@ Vou deixa aqui duas fontes de exercícios e estudos que resolvi no começo na mi
         <td>
           <a href="https://github.com/Winzen/freecodecamp.org/tree/main/Machine%20Learning%20with%20Python"><img src="https://cdn.discordapp.com/attachments/465998423145971713/1012623596989992990/unknown.png" width="133" height="100"></a>
           </td>
-        <td><img src="https://cdn.discordapp.com/attachments/465998423145971713/1013646095664033912/unknown.png" width="40" height="100"/></td>
+        <td><img src="https://3.bp.blogspot.com/-bNbqH1Ll5BY/XD97Ife_ioI/AAAAAAAA9Mk/ipwUBBWtGgoEUNu7m7AaYGyvw1DxBR97QCLcBGAs/s1600/Fundo%2Btransparente%2B1900x1900.png" width="40" height="100"/></td>
         <td>
             <a href="https://github.com/Winzen/CURSO-EM-VIDEO-PYTHON/tree/main/Mundo%201%20e%202%20Curso%20em%20Video"><img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/Python3%E2%80%93Mundo1-circle-fe9ce6bfeaf0ec1069476ff395ea189a-5d48cb37edbef.png" width="133" height="100"></a></td>
         <td>
