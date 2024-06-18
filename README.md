@@ -45,7 +45,7 @@ Muitos deles não são públicos, mas eventualmente podem ser.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="50" height="50"/>
 </div>
-  
+<!--  
 # 
 
 # Onde comecei (Where it all began)
@@ -85,7 +85,7 @@ Vou deixa aqui duas fontes de exercícios e estudos que resolvi no começo na mi
     </tbody>
   </table>
 </div>
-
+-->
 # Visão Geral do Perfil (Overall  Profile)
 
 <div>
